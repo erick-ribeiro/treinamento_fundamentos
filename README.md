@@ -77,4 +77,3 @@ R. Faça o clone deste repositorio acesse a pasta do projeto atravez do terminal
 ````Ruby
 ruby exercise/modulo_ruby/task_1.rb
 ````
-
