@@ -62,7 +62,9 @@ git push -u origin <branch>
 ```
 
 ## Modulo Logica de Programação
-Neste modulo foram vistos os videos de logica de programações popostos no modulo. Não foi feito atividade pois o mesmo sera validado duerante o modulo de Ruby
+Neste modulo foram vistos os videos de logica de programações popostos no modulo. 
+
+Não foi feito atividade pois o mesmo sera validado duerante o modulo de Ruby
 
 ## Modulo Ruby
 blablabla
