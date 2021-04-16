@@ -67,4 +67,14 @@ Neste modulo foram vistos os videos de logica de programações popostos no modu
 Não foi feito atividade pois o mesmo sera validado duerante o modulo de Ruby
 
 ## Modulo Ruby
-blablabla
+Ao finalizar os treinamento, deverá ser entre todos os desafios do módulo em um repositório utilizando git.
+
+### O Início
+D. Exiba no console a seguinte mensagem “Curso de Ruby do OneBitCode”
+
+R. Faça o clone deste repositorio acesse a pasta do projeto atravez do terminal e execute o comando
+
+````Ruby
+ruby exercise/modulo_ruby/task_1.rb
+````
+
