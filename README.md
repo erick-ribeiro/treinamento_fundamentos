@@ -74,14 +74,20 @@ Ao finalizar os treinamento, deverá ser entre todos os desafios do módulo em u
 Exiba no console a seguinte mensagem “Curso de Ruby do OneBitCode”
 
 ````
-ruby exercise/modulo_ruby/task_1.rb
+ruby exercise/modulo_ruby/task_1.1.rb
 ````
 
 ### Conceitos Básicos
-#### Atividade 2
+#### Atividade 1
+Crie todos os principais tipos de dados mencionados na aula com valores diferentes dos exemplos.
 
 ````
-ruby exercise/modulo_ruby/task_2.rb
+ruby exercise/modulo_ruby/task_2.1.rb
+````
+#### Atividade 2
+Crie um programa que receba o nome e idade de uma pessoa e no final exiba estes dois dados em uma única frase.
+````
+ruby exercise/modulo_ruby/task_2.2.rb
 ````
 
 
