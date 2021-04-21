@@ -112,4 +112,12 @@ ruby exercise/modulo_ruby/task_4.1.rb
 #### Atividade 2
 Crie uma collection do tipo Hash e permita que o usuário crie três elementos informando a chave e o valor. No final do programa para cada um desses elementos imprima a frase “Uma das chaves é **** e o seu valor é ****”
 ````
-ruby exercise/modulo_ruby/task_4.1.rb
+ruby exercise/modulo_ruby/task_4.2.rb
+````
+#### Atividade 3
+Dado o seguinte hash:
+Numbers = {a: 10, b: 30 2, c: 20, d: 25, e: 15}
+Crie uma instrução que seleciona o maior valor deste hash e no final imprima a chave e valor do elemento resultante.
+````
+ruby exercise/modulo_ruby/task_4.3.rb
+````
