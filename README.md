@@ -67,4 +67,69 @@ Neste modulo foram vistos os videos de logica de programações popostos no modu
 Não foi feito atividade pois o mesmo sera validado duerante o modulo de Ruby
 
 ## Modulo Ruby
-blablabla
+Ao finalizar os treinamento, deverá ser entre todos os desafios do módulo em um repositório utilizando git.
+
+### O Início
+#### Atividade 1
+Exiba no console a seguinte mensagem “Curso de Ruby do OneBitCode”
+
+````
+ruby exercise/modulo_ruby/task_1.1.rb
+````
+
+### Conceitos Básicos
+#### Atividade 1
+Crie todos os principais tipos de dados mencionados na aula com valores diferentes dos exemplos.
+
+````
+ruby exercise/modulo_ruby/task_2.1.rb
+````
+#### Atividade 2
+Crie um programa que receba o nome e idade de uma pessoa e no final exiba estes dois dados em uma única frase.
+````
+ruby exercise/modulo_ruby/task_2.2.rb
+````
+
+#### Atividade 3
+Crie um programa que que receba dois números inteiros e no final exiba a soma, subtração, adição e divisão entre eles.
+````
+ruby exercise/modulo_ruby/task_2.3.rb
+````
+
+### Estruturas de Controle
+#### Atividade 1
+Utilizando as estruturas de iteração e condição, crie uma calculadora que ofereça ao usuário a opção de Multiplicar, Dividir, Adicionar ou Subtrair dois números. Não se esqueça de também permitir que o usuário feche o programa.
+````
+ruby exercise/modulo_ruby/task_3.1.rb
+````
+
+### Collections
+#### Atividade 1
+Utilizando uma collection do tipo Array, escreva um programa que receba 3 números e no final exiba o resultado de cada um deles elevado a segunda potência.
+````
+ruby exercise/modulo_ruby/task_4.1.rb
+````
+#### Atividade 2
+Crie uma collection do tipo Hash e permita que o usuário crie três elementos informando a chave e o valor. No final do programa para cada um desses elementos imprima a frase “Uma das chaves é **** e o seu valor é ****”
+````
+ruby exercise/modulo_ruby/task_4.2.rb
+````
+#### Atividade 3
+Dado o seguinte hash:
+Numbers = {a: 10, b: 30 2, c: 20, d: 25, e: 15}
+Crie uma instrução que seleciona o maior valor deste hash e no final imprima a chave e valor do elemento resultante.
+````
+ruby exercise/modulo_ruby/task_4.3.rb
+````
+
+### Métodos e Gems
+#### Atividade 1
+Crie um programa que possua um método que resolva a potência dado um número base e seu expoente. Estes dois valores devem ser informados pelo usuário.
+````
+ruby exercise/modulo_ruby/task_5.1.rb
+````
+#### Atividade 2
+Siga a documentação da gem cpf_cnpj para criar um programa que recebe como entrada um número de cpf e em um método verifique se este número é válido.bu
+````
+ruby exercise/modulo_ruby/task_5.2.rb
+````
