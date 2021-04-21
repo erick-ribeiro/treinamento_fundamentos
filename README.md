@@ -128,3 +128,8 @@ Crie um programa que possua um método que resolva a potência dado um número b
 ````
 ruby exercise/modulo_ruby/task_5.1.rb
 ````
+#### Atividade 2
+Siga a documentação da gem cpf_cnpj para criar um programa que recebe como entrada um número de cpf e em um método verifique se este número é válido.bu
+````
+ruby exercise/modulo_ruby/task_5.2.rb
+````
