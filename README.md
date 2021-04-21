@@ -121,3 +121,10 @@ Crie uma instrução que seleciona o maior valor deste hash e no final imprima a
 ````
 ruby exercise/modulo_ruby/task_4.3.rb
 ````
+
+### Métodos e Gems
+#### Atividade 1
+Crie um programa que possua um método que resolva a potência dado um número base e seu expoente. Estes dois valores devem ser informados pelo usuário.
+````
+ruby exercise/modulo_ruby/task_5.1.rb
+````
