@@ -102,3 +102,10 @@ Utilizando as estruturas de iteração e condição, crie uma calculadora que of
 ````
 ruby exercise/modulo_ruby/task_3.1.rb
 ````
+
+### Collections
+#### Atividade 1
+Utilizando uma collection do tipo Array, escreva um programa que receba 3 números e no final exiba o resultado de cada um deles elevado a segunda potência.
+````
+ruby exercise/modulo_ruby/task_4.1.rb
+````
